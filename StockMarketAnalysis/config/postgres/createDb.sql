@@ -1,1 +1,1 @@
-CREATE DATABASE StockMarketAnalysis;
+CREATE DATABASE IF NOT EXISTS StockMarketAnalysis;
